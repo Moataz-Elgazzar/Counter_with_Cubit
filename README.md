@@ -56,6 +56,6 @@ lib/
 
 
 ## Screenshots
-[Screenshot_1758221025.png]
+!(Screenshot_1758221025.png)
 
 
