@@ -56,6 +56,6 @@ lib/
 
 
 ## Screenshots
-!(Screenshot_1758221025.png)
+![counter](Screenshot_1758221025.png)
 
 
